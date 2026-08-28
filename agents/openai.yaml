@@ -1,0 +1,7 @@
+interface:
+  display_name: "ASMR Script Aligner"
+  short_description: "从日语 PDF 台本与 ASMR 音频生成 VTT、SRT 或 LRC 字幕"
+  default_prompt: "Use $asmr-script-aligner to create a local project from my PDF and audio, align Japanese cues, translate if requested, and export subtitles."
+
+policy:
+  allow_implicit_invocation: true
